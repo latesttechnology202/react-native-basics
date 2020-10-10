@@ -1,8 +1,6 @@
 import React from "react";
 import {View,Text,StyleSheet } from "react-native";
-//hello
-//in this tutorial we will learn about how
-//to use flex property in react native
+
 const App = () => {
   return (
     <View style={styles.container}>
